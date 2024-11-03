@@ -12,4 +12,7 @@ import './assets/style/index.css';
 ReactDOM.render(
     <App/>,
     document.getElementById('root')
+
+    /// ykhoa dep zai
+    /// ykhoa dep zai 2
 );
