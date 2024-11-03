@@ -3,8 +3,10 @@ import {stringInclues} from '../util/common';
 export const FILTER_ALL = 'all';
 export const FILTER_ACTIVE = 'active';
 export const FILTER_COMPLETED = 'completed';
+export const FILTER_COMPLETED_3 = 'completed';
+
 export const FILTER_COMPLETED_1 = 'completed';
-export const FILTER_COMPLETED_2 = 'completed';
+
 
 export function applyFilter(list, filter) {
     switch (filter) {
