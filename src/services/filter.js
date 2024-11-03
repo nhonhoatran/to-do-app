@@ -6,7 +6,9 @@ export const FILTER_COMPLETED = 'completed';
 export const FILTER_COMPLETED_3 = 'completed';
 
 export const FILTER_COMPLETED_1 = 'completed';
-const ykhoa = {};
+// const ykhoa = {};
+// const ykhoa2 = {};
+
 
 export function applyFilter(list, filter) {
     switch (filter) {
